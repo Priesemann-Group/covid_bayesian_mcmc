@@ -7,6 +7,7 @@ This repository provides the code behind our forecast of the COVID-19 spread in 
 
 ### Authors
 Jonas Dehning, Johannes Zierenberg,  F. Paul Spitzner, Joao Pinheiro Neto, Michael Wilczek, Viola Priesemann
+
 MPI for Dynamics and Self-Organization, Göttingen
 
 **Acknowledgements.**
