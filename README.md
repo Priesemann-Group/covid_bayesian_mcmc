@@ -5,6 +5,8 @@ This repository provides the code behind our forecast of the COVID-19 spread in 
 
 ### [The methods are described here.](https://pad.gwdg.de/s/ByQgsSP88)
 
+### [The code and figures are found here.](https://github.com/Priesemann-Group/covid_bayesian_mcmc/blob/master/Corona_germany_SIR.ipynb)
+
 ### Authors
 Jonas Dehning, Johannes Zierenberg,  F. Paul Spitzner, Joao Pinheiro Neto, Michael Wilczek, Viola Priesemann
 
