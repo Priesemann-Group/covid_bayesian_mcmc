@@ -1,3 +1,5 @@
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
+
 ### Authors
 Jonas Dehning, Johannes Zierenberg,  F. Paul Spitzner, Joao Pinheiro Neto, Michael Wilczek, Viola Priesemann
 
