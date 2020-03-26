@@ -4,7 +4,7 @@
 This repository provides the code behind our forecast of the COVID-19 spread in Germany. It was used for the three possible future scenarios that we discuss on the [Göttingen Campus Page](https://goettingen-campus.de/research/szenarien-covid-19).
 
 ### [The methods are described here](https://pad.gwdg.de/s/ByQgsSP88).
-A [pdf version](model_and_methods.pdf) is included in the repository.
+A [pdf version](https://raw.githubusercontent.com/Priesemann-Group/covid_bayesian_mcmc/master/model_and_methods.pdf) is included in the repository.
 
 ### [The code and figures are found here.](https://github.com/Priesemann-Group/covid_bayesian_mcmc/blob/master/Corona_germany_SIR.ipynb)
 
