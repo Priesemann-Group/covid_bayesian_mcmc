@@ -1,5 +1,3 @@
-<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
-
 ### Authors
 Jonas Dehning, Johannes Zierenberg,  F. Paul Spitzner, Joao Pinheiro Neto, Michael Wilczek, Viola Priesemann
 
@@ -20,7 +18,7 @@ You find the results on the webpage of the [[Campus Göttingen](https://goetting
 
 ## Model Equations
 
-We consider a discrete SIR (Susceptible-Infected-Recovered) model. In short,  we assume that the disease spreads at rate $\lambda$ from an infected person ($I$) to a susceptible person ($S$) and that an infected person becomes a recovered person ($R$) at rate $\mu$, i.e.
+We consider a discrete SIR (Susceptible-Infected-Recovered) model. In short,  we assume that the disease spreads at rate $\lambda$ from an infected person ($I$) to a susceptible person ($S$) and that an infected person becomes a recovered person ($R$) at rate $`\mu`$, i.e.
 \begin{align}
 S + I &\overset{\lambda}{\to} I + I \\
 I &\overset{\mu}{\to} R \,.
